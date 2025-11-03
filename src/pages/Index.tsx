@@ -22,7 +22,7 @@ const articles: Article[] = [
     category: 'Дизайн',
     tags: ['минимализм', 'творчество', 'эстетика'],
     date: '15 октября 2024',
-    image: 'https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=800&q=80',
+    image: 'https://cdn.poehali.dev/files/198c61fb-9f8d-4319-82c9-43ffafe6bfe9.png',
     readTime: '5 мин'
   },
   {
@@ -32,7 +32,7 @@ const articles: Article[] = [
     category: 'Брендинг',
     tags: ['психология', 'цвет', 'маркетинг'],
     date: '12 октября 2024',
-    image: 'https://images.unsplash.com/photo-1541701494587-cb58502866ab?w=800&q=80',
+    image: 'https://cdn.poehali.dev/files/198c61fb-9f8d-4319-82c9-43ffafe6bfe9.png',
     readTime: '7 мин'
   },
   {
@@ -42,7 +42,7 @@ const articles: Article[] = [
     category: 'Типографика',
     tags: ['шрифты', 'будущее', 'инновации'],
     date: '10 октября 2024',
-    image: 'https://images.unsplash.com/photo-1516462919-9f61eec1c90d?w=800&q=80',
+    image: 'https://cdn.poehali.dev/files/198c61fb-9f8d-4319-82c9-43ffafe6bfe9.png',
     readTime: '6 мин'
   },
   {
@@ -52,7 +52,7 @@ const articles: Article[] = [
     category: 'UX/UI',
     tags: ['интерфейсы', 'эмоции', 'опыт'],
     date: '8 октября 2024',
-    image: 'https://images.unsplash.com/photo-1561070791-2526d30994b5?w=800&q=80',
+    image: 'https://cdn.poehali.dev/files/198c61fb-9f8d-4319-82c9-43ffafe6bfe9.png',
     readTime: '8 мин'
   },
   {
@@ -62,7 +62,7 @@ const articles: Article[] = [
     category: 'Искусство',
     tags: ['сюрреализм', 'digital art', 'креатив'],
     date: '5 октября 2024',
-    image: 'https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5?w=800&q=80',
+    image: 'https://cdn.poehali.dev/files/198c61fb-9f8d-4319-82c9-43ffafe6bfe9.png',
     readTime: '6 мин'
   },
   {
@@ -72,7 +72,7 @@ const articles: Article[] = [
     category: 'UX/UI',
     tags: ['архитектура', 'навигация', 'структура'],
     date: '3 октября 2024',
-    image: 'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80',
+    image: 'https://cdn.poehali.dev/files/198c61fb-9f8d-4319-82c9-43ffafe6bfe9.png',
     readTime: '9 мин'
   }
 ];
